@@ -1,0 +1,11 @@
+D:\Source\Repos\4chanViewer\4chanViewer\bin\Debug\netcoreapp2.1\4chanViewer.deps.json
+D:\Source\Repos\4chanViewer\4chanViewer\bin\Debug\netcoreapp2.1\4chanViewer.runtimeconfig.json
+D:\Source\Repos\4chanViewer\4chanViewer\bin\Debug\netcoreapp2.1\4chanViewer.runtimeconfig.dev.json
+D:\Source\Repos\4chanViewer\4chanViewer\bin\Debug\netcoreapp2.1\4chanViewer.dll
+D:\Source\Repos\4chanViewer\4chanViewer\bin\Debug\netcoreapp2.1\4chanViewer.pdb
+D:\Source\Repos\4chanViewer\4chanViewer\obj\Debug\netcoreapp2.1\4chanViewer.csprojAssemblyReference.cache
+D:\Source\Repos\4chanViewer\4chanViewer\obj\Debug\netcoreapp2.1\4chanViewer.csproj.CoreCompileInputs.cache
+D:\Source\Repos\4chanViewer\4chanViewer\obj\Debug\netcoreapp2.1\4chanViewer.AssemblyInfoInputs.cache
+D:\Source\Repos\4chanViewer\4chanViewer\obj\Debug\netcoreapp2.1\4chanViewer.AssemblyInfo.cs
+D:\Source\Repos\4chanViewer\4chanViewer\obj\Debug\netcoreapp2.1\4chanViewer.dll
+D:\Source\Repos\4chanViewer\4chanViewer\obj\Debug\netcoreapp2.1\4chanViewer.pdb
