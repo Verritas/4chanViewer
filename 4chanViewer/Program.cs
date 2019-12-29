@@ -25,7 +25,7 @@ namespace _4chanViewer
             ShowWindow(p.MainWindowHandle, 3);
 
             LoadBoards();
-            boardsList = LoadBoards();
+            boardsList = LoadBoards();afasfasf
             PrintBoards(boardsList);
 
 
